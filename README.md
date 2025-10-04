@@ -1,3 +1,6 @@
+## Working Copy
+This is a working copy of the F25 Nuclear Challenge!
+
 ## Documents
 You can find the judging rubric, presentation template, _**group signups**_, etc. in this [google drive folder](https://drive.google.com/drive/folders/1HSpPK-RUN6NwezttZxGLrhhvPRYHUJKT?usp=sharing). 
 Good luck and have fun!
